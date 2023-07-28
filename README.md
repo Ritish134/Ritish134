@@ -1,6 +1,9 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:700/1*dRpCFDfCC1WUAdE6SB74zA.gif)](https://Ritish134.io)
 <h1 align="center">Hi 👋, I'm Ritish Srivastava</h1>
-<h3 align="center">AI/ML & Open-Souce Enthuasiast !!</h3>
+<!-- <h3 align="center">AI/ML & Open-Souce Enthuasiast !!</h3> -->
+<p align='center'>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=15F722&width=435&lines=AI%2FML+%26+Open-Souce+Enthuasiast+!!" alt="Typing SVG" />
+</p>
 <img align="right" alt="Coding" width="400" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif"/>
 
 
