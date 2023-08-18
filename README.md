@@ -37,6 +37,6 @@
 <p><a href="https://www.buymeacoffee.com/ritish134"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/ritish134" /></a></p><br><br>
 
 
-<p><img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ritish134&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="ritish134" /></p> 
+<p><img align="right-bottom" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ritish134&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="ritish134" /></p> 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritish134&theme=blue-green" alt="ritish134" /></p>
