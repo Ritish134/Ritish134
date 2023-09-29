@@ -39,4 +39,4 @@
 
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ritish134&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="ritish134" /></p> 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ritish134&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-ten-nu.vercel.app?user=ritish134&theme=blue-green)](https://git.io/streak-stats)
