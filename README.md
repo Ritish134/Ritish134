@@ -1,4 +1,5 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:700/1*dRpCFDfCC1WUAdE6SB74zA.gif)](https://Ritish134.io)
+<!-- [![MasterHead](https://miro.medium.com/v2/resize:fit:700/1*dRpCFDfCC1WUAdE6SB74zA.gif)](https://Ritish134.io) -->
+[![An image of @ritish134's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ritish134)](https://holopin.io/@ritish134)
 <h1 align="center">Hi 👋, I'm Ritish Srivastava</h1>
 <!-- <h3 align="center">AI/ML & Open-Source Enthuasiast !!</h3> -->
 <p align='center'>
