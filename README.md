@@ -19,6 +19,8 @@
 <td><a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a></td>
 <td><a href="https://cmake.org/"><img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/355b8fbe-4a6b-42f0-96c6-18495038b549" />
 </a></td>
+<td><a href="https://www.rust-lang.org/"><img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/2e0f35dc-8490-40ef-9ecb-01a19ce6d61b" />
+</a></td>
 </tr>
 </table>
 
