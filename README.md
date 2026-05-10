@@ -28,7 +28,11 @@
 ---
 
 ## Contributions
+### 🛠️ Compilers & Static Analysis
 
+| Project | PR | Concept |
+|---|---|---|
+| **[llvm/llvm-project](https://github.com/llvm/llvm-project)** *(38k ⭐)* | [#196783](https://github.com/llvm/llvm-project/pull/196783) | `readability-delete-null-pointer` clang-tidy check warned about unnecessary `if (ptr) { delete ptr; }` with an else branch but generated no fix-it (FIXME in source). Implemented the transformation that strips the if/else structure and unwraps both bodies — safe because deleting null is a no-op per C++ [expr.delete]. |
 ### 🦀 Database Internals & Distributed Systems
 
 | Project | PR | Concept |
